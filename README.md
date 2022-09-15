@@ -1,16 +1,8 @@
-# implicit_animation
+# Animações Implícitas com AnimatedContainer
 
-A new Flutter project.
+Exercício proposto durante os estudos do curso de Flutter da Flutterando Masterclass. A proposta foi realizar a animação de um botão em Flutter utilizando animações implícitas.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/19718447/190285288-8d71c29a-57c4-448a-94b8-4ff3bbcedbfe.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
